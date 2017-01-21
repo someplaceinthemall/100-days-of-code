@@ -9,14 +9,14 @@
 
 **Link to work:** [Code School Profile Page](http://codepen.io/rmyoung04/pen/LxWMBm)
 
-### Day 0: February 30, 2016 (Example 2)
+### Day 1: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Started working on the quote generator for Free Code Camp
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts**: I really struggled with CSS again, but I was able to get the Javascript to work.  I am going to play around with the CSS tomorrow to see what looks good and what works.  I am also going to make a second version of this site that uses JSON instead of the quotes stored locally on the site.  
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Link(s) to work**: [Calculator App](http://codepen.io/rmyoung04/pen/pgxZVV)
 
 
 ### Day 1: June 27, Monday
