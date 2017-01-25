@@ -16,6 +16,13 @@
 
 **Link(s) to work**: [Quote Generator](http://codepen.io/rmyoung04/pen/LxWMBm)
 
+Day 1: January 24th, 2017
+
+Today's Progress: I was able to get a "Tweet" button to work for my quote generator
+
+Thoughts: It was surprisingly easy to get the Twitter button working on my quote generator.  Tomorrow I am going to stuff it full of quotes and post it online for people to review.  I'm also going to fork the code and create a second version that uses JSON to practice JSON.  I struggled today cleaning up my Code School page.  I forgot how I was able to use Twitter bootstrap to get it to work when I initially created it.  Tomorrow I need to review Twitter boot strap.  I'm also going to practice HTML5 with my code school subscription for an hour.  I need to make up for 2 days from when my internet was down.
+
+Link(s) to work: [Quote Generator](http://codepen.io/rmyoung04/pen/LxWMBm)
 
 
 **Link(s) to work**
